@@ -3,15 +3,13 @@ For this exercise, my vision is a pac-man trying to eat into an inventory of ite
 
 I changed the colour of the circle to yellow, adjusted the angle of the circle and removed 1/6 of it to mimic a pac-man.
 
-I also edited the wavelengths of the waves 
+I also edited the wavelengths of the waves to make the blue wave look like water while the other wave is another random item. 
 
-ff
+Finally, I made everything fit into the box by adjusting the x and y values.
 
-Finally, for the blue rectangle. I applied a bottom bias distribution to create a fade effect. 
+Moving on, I could improve on trying to understand what commands I am changing.
 
-Moving on, I could improve in making the sketch more dynamic, in which one distribution could transition into another.
-
-Overall, I was very surprised at the effectiveness of stochastic techiniques to create visual texture and interest and I would definitely use this method for graphic design projects and many other things in the future. 
+Overall, I am satisfied with the outcome as my first attempt. 
 */
 
 function setup() {
